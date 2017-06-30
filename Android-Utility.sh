@@ -247,3 +247,5 @@ f_delete(){
 
 f_setup
 f_mainmenu
+
+#Test
